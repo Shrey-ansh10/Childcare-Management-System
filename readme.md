@@ -1,7 +1,7 @@
-# Childcare Management System
+# EduEase: Childcare & School Management Platform
 
 ## Overview
-The Childcare Management System is a full-stack web application designed to streamline and manage the operations of childcare facilities. It provides features for staff, parents, and administrators to handle daily activities such as child enrollment, attendance tracking, staff management, accounting, and reporting.
+EduEase is a comprehensive full-stack web application designed to streamline and manage the operations of childcare facilities and schools. It provides features for staff, parents, and administrators to handle daily activities such as child enrollment, attendance tracking, staff management, accounting, and reporting.
 
 ## Project Structure
 

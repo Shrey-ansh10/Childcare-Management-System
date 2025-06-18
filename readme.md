@@ -83,9 +83,6 @@ EduEase is a comprehensive full-stack web application designed to streamline and
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-[MIT](LICENSE)
-
 ## Acknowledgements
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
